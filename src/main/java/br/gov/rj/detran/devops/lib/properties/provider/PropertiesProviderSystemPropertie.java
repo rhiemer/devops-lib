@@ -1,0 +1,10 @@
+package br.gov.rj.detran.devops.lib.properties.provider;
+
+public class PropertiesProviderSystemPropertie implements PropertiesProvider {
+
+	@Override
+	public String getPropertie(String propertie) {
+		return System.getProperty(propertie);
+	}
+
+}
