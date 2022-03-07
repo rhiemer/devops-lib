@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>detran.rj.gov.br</groupId>
 	<artifactId>devops-lib</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>devops-lib</name>
 	<description>POC de uma lib em java para o projeto devops do DETRAN-RJ</description>
 
